@@ -11,6 +11,7 @@ matplotlib = "==3.4.3"
 seaborn = "==0.11.2"
 black = "==21.10b0"
 blackcellmagic = "==0.0.3"
+missingno = "==0.5.0"
 
 [dev-packages]
 ipykernel = "*"
