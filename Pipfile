@@ -12,6 +12,10 @@ seaborn = "==0.11.2"
 black = "==21.10b0"
 blackcellmagic = "==0.0.3"
 missingno = "==0.5.0"
+scipy = "==1.7.2"
+statsmodels = "==0.13.1"
+pingouin = "==0.5.0"
+bioinfokit = "==2.0.6"
 
 [dev-packages]
 ipykernel = "*"
